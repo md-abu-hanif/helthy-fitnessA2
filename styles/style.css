@@ -219,12 +219,9 @@ body{
 }
 .habit-title{
   color: var(--color-1);
-  font-size: ;
-  font-weight: ;
 }
 .habit-description{
   color: var(--color-3);
-  font-size: ;
 }
 .picture{
   display: flex;
@@ -550,11 +547,11 @@ td, th{
 }
 .meet-text-1{
   color: var(--color-1);
-  font-size: ;
+  /* font-size: ; */
 }
 .meet-text-2{
   color: var(--color-3);
-  font-size: ;
+  /* font-size: ; */
 }
 .meet-1{
   border-radius: 10px;
